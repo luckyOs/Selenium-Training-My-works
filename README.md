@@ -15,3 +15,8 @@ https://github.com/cbeust/testng-eclipse/
 ******
 http://beust.com/eclipse	
 
+03)qafox
+
+https://www.instamojo.com/tutorialsninja/
+
+http://www.qafox.com/selenium/selenium-ebook/
