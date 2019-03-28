@@ -33,3 +33,10 @@ https://www.quora.com/How-do-I-learn-Selenium-WebDriver-in-20-days/answer/Arun-M
 
 What are the basics of Selenium testing?
 https://www.quora.com/What-are-the-basics-of-Selenium-testing/answer/Arun-Motoori-1
+
+******
+
+Introduction to TestNG
+
+https://testautomationu.applitools.com/introduction-to-testng/
+
