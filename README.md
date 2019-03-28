@@ -20,3 +20,13 @@ http://beust.com/eclipse
 https://www.instamojo.com/tutorialsninja/
 
 http://www.qafox.com/selenium/selenium-ebook/
+
+https://www.quora.com/What-are-the-basics-of-Selenium-testing/answer/Arun-Motoori-1
+
+
+How do I learn Selenium WebDriver in 20 days?
+https://www.quora.com/How-do-I-learn-Selenium-WebDriver-in-20-days/answer/Arun-Motoori-1
+
+
+What are the basics of Selenium testing?
+https://www.quora.com/What-are-the-basics-of-Selenium-testing/answer/Arun-Motoori-1
