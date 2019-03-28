@@ -39,7 +39,8 @@ https://www.quora.com/What-are-the-basics-of-Selenium-testing/answer/Arun-Motoor
 My JDK install video*********************
 https://www.youtube.com/watch?v=aIzgMFQK0ro
 
-
+javac -version
+javac
 
 
 ******
