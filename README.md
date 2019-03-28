@@ -52,5 +52,10 @@ https://testautomationu.applitools.com/introduction-to-testng/
 
 https://www.youtube.com/watch?v=HtJa0KvR8TI
 
+***********
+
+TESTNG by SIR
+https://www.ecanarys.com/Blogs/ArticleID/169/How-to-Install-TestNG-framework-Step-by-Step-installation-process
+
 
 
